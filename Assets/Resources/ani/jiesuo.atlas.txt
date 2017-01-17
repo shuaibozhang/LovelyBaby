@@ -1,0 +1,62 @@
+
+jiesuo.png
+size: 479,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suo
+  rotate: false
+  xy: 436, 22
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+voodoo skull exlposion_1
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+voodoo skull exlposion_2
+  rotate: false
+  xy: 64, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+voodoo skull exlposion_3
+  rotate: false
+  xy: 126, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+voodoo skull exlposion_4
+  rotate: false
+  xy: 188, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+voodoo skull exlposion_5
+  rotate: false
+  xy: 250, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+voodoo skull exlposion_6
+  rotate: false
+  xy: 312, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+voodoo skull exlposion_7
+  rotate: false
+  xy: 374, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,64 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2f8ca659e6152a1d1e0701b7a1687681:ba4f02d0dbbb689a9c59a1d316260113:0468195115ed5bbbcf55e2ca0092fcfa$
+#
+:format=40000
+:texture=ui.png
+:size=1024x1024
+:pivotpoints=enabled
+
+com_bg_nums;137;513;167;54;0.5;0.5
+com_bg_pop;329;774;591;249;0.5;0.5
+com_btn_0;87;942;223;81;0.5;0.5
+com_btn_1;87;859;223;81;0.5;0.5
+com_btn_close_0;25;596;60;64;0.5;0.5
+com_btn_close_1;25;959;60;64;0.5;0.5
+com_icon_crystal;1;2;36;35;0.5;0.5
+com_icon_crystal2;25;809;58;54;0.5;0.5
+com_icon_tili;269;569;44;55;0.5;0.5
+con_bg_title;329;662;572;110;0.5;0.5
+main_bar_ emotion;505;198;32;419;0.5;0.5
+main_bar_ emotion_bg;318;69;104;518;0.5;0.5
+main_bg_colorbg_happy;1;319;10;704;0.5;0.5
+main_bg_colorbg_sad;13;319;10;704;0.5;0.5
+main_bg_houseL;570;293;315;367;0.5;0.5
+main_bg_houseR;1;39;315;278;0.5;0.5
+main_bg_leaf_l;25;865;58;92;0.5;0.5
+main_bg_leaf_r;137;722;177;87;0.5;0.5
+main_bg_paopao;137;592;130;128;0.5;0.5
+main_btn_add_0;87;613;44;50;0.5;0.5
+main_btn_add_1;316;610;44;50;0.5;0.5
+main_btn_paopao;903;589;113;119;0.5;0.5
+main_btn_remind_0;922;920;101;103;0.5;0.5
+main_btn_remind_1;922;815;101;103;0.5;0.5
+main_icon_chengjiu;922;710;101;103;0.5;0.5
+main_icon_cry;164;811;45;46;0.5;0.5
+main_icon_happy;211;811;45;46;0.5;0.5
+main_icon_laugh;258;811;45;46;0.5;0.5
+main_icon_lock;222;339;68;43;0.5;0.5
+main_icon_nor;269;674;45;46;0.5;0.5
+main_icon_point_0;281;15;22;22;0.5;0.5
+main_icon_point_1;305;15;22;22;0.5;0.5
+main_icon_sad;269;626;45;46;0.5;0.5
+main_icon_star;25;353;99;99;0.5;0.5
+main_icon_starbg;126;359;94;93;0.5;0.5
+main_text_bxz;39;3;94;34;0.5;0.5
+main_text_cancle;222;384;85;41;0.5;0.5
+main_text_ctdd;135;8;113;29;0.5;0.5
+main_text_freegold;424;131;79;88;0.5;0.5
+main_text_nextquestion;887;504;112;40;0.5;0.5
+main_text_ok;222;427;86;41;0.5;0.5
+main_text_oncemore;137;470;148;41;0.5;0.5
+main_text_sbl;329;2;239;65;0.5;0.5
+main_text_share;362;619;184;41;0.5;0.5
+main_text_sos;85;811;77;46;0.5;0.5
+main_text_zjm;887;546;112;41;0.5;0.5
+mian_text_d;250;8;29;29;0.5;0.5
+share_icon_friends;887;221;109;139;0.5;0.5
+share_icon_qq;25;665;110;142;0.5;0.5
+share_icon_wechat;25;454;110;140;0.5;0.5
+share_icon_weibo;887;362;110;140;0.5;0.5
